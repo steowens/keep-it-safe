@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Kicking the tires",
+    "owner": "Steve",
+    "description": "Just want to see this thing work"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "System Context",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Nobody"
+  }
+}
