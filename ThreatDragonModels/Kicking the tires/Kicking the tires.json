@@ -61,7 +61,7 @@
                   "class": "element-shape hasNoOpenThreats isOutOfScope"
                 },
                 "text": {
-                  "text": "IDM"
+                  "text": "IDM Open ID Connect"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
